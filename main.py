@@ -3,8 +3,9 @@
 #    Author: Han Wang
 #    Date created: 3/13/2023
 #    Date last modified: 3/16/2023
+#    version 1
 #------------------------------------------------------------------------------
-'''   Description: Simple game Map '''
+'''   Description: Simple game Map, You are in a bunker with many layers, and you need to find the key to escape.'''
 #------------------------------------------------------------------------------
 #Create a variable "row" with a value of 0
 row = 0  
