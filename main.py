@@ -42,6 +42,7 @@ map = [[tile[0], tile[1], tile[2], tile[3]],
        [tile[2], tile[1], tile[3], tile[2]],
        [tile[3], tile[2], tile[1], tile[3]]]
 
+
 # Functions ------------------------------------------------------------------
 def walkto():
   global playing, row, col, max_row, max_col
